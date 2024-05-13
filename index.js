@@ -10,4 +10,4 @@ let num3 = 2
 let num4 = 2
 let mod = num3 + num4
 
-let max = 20
+let max = Math.max(1,2,3,4,5,20)
